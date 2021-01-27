@@ -26,11 +26,12 @@ And the mome raths outgrabe.
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+
 The jaws that bite, the claws that catch!  
-Beware the Jubjub bird, and shun.   
+Beware the Jubjub bird, and shun.  
 The frumious Bandersnatch!'  
 He took his vorpal sword in hand:  
-Long time the manxome foe he sought --
+Long time the manxome foe he sought --  
 
 
 ## Third Verse
@@ -41,8 +42,7 @@ So rested he by the Tumtum tree,
 And stood a while in thought.  
 And, as in uffish thought he stood,  
 The Jabberwock, with eyes of flame,  
-Came whiffling through the tulgey wood, 
-
+Came whiffling through the tulgey wood,  
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
@@ -54,7 +54,7 @@ Said little Peggy Ann McKay.
 A gash, a rash and purple bumps.  
 My mouth is wet, my throat is dry,  
 I’m going blind in my right eye.  
-My tonsils are as big as rocks,  
+My tonsils are as big as rocks,   
 I’ve counted sixteen chicken pox.   
 And there’s one more--that’s seventeen,  
 And don’t you think my face looks green?  
