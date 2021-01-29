@@ -16,55 +16,25 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-
-'Twas brillig, and the slithy toves.   
+`Twas brillig, and the slithy toves. 
 Did gyre and gimble in the wabe:  
 All mimsy were the borogoves,  
 And the mome raths outgrabe.  
-'Beware the Jabberwock, my son!
+"Beware the Jabberwock, my son!  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
-
-The jaws that bite, the claws that catch!  
-Beware the Jubjub bird, and shun.  
-The frumious Bandersnatch!'  
-He took his vorpal sword in hand:  
-Long time the manxome foe he sought --  
+ 
 
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
 
-So rested he by the Tumtum tree,  
-And stood a while in thought.  
-And, as in uffish thought he stood,  
-The Jabberwock, with eyes of flame,  
-Came whiffling through the tulgey wood,  
+ 
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
 
-“I cannot go to school today,"  
-Said little Peggy Ann McKay.  
-“I have the measles and the mumps,  
-A gash, a rash and purple bumps.  
-My mouth is wet, my throat is dry,  
-I’m going blind in my right eye.  
-My tonsils are as big as rocks,   
-I’ve counted sixteen chicken pox.   
-And there’s one more--that’s seventeen,  
-And don’t you think my face looks green?  
-My leg is cut--my eyes are blue--  
-It might be instamatic flu.  
-I cough and sneeze and gasp and choke,  
-I’m sure that my left leg is broke--  
-My hip hurts when I move my chin,  
-My belly button’s caving in,  
-My back is wrenched, my ankle’s sprained,  
-My ‘pendix pains each time it rains.  
-My nose is cold, my toes are numb.  
-I have a sliver in my thumb.  
